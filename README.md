@@ -15,6 +15,15 @@ Repository to store all the Machine Learning Lab Assignments for TY-AIEC
     a. Train_Test_Splits_Validation_Linear_Regression
 
 ## Assignment 4
+    a. Regularization and Gradient Descent Exercises
+
+## Assignment 5
+    a. Logistic Regression and Classification Error Metrics
+
+## Assignment 6
+    a. Support Vector Machines and Kernels
+
+## Cognitive AI
     a. Build_a_classifier_using_Logistic_Regression
     Precise Predictions: Classification for Flower and Tumors 
 
